@@ -1,12 +1,10 @@
 {
-    "server_muni": {
-        "mc_version": "1.20.1",
-        "forge_version": "47.4.10",
-        "server_ip": "shulker.wardenservers.com",
-        "server_port": "27565",
-        "app_version": "1.0",
-        "mod_version": "1774923223",
-        "modpack_url": "https://github.com/Whitexxff/server-muni-mods/releases/download/produccion/modpack.zip",
-        "app_update_url": ""
-    }
+    "mc_version": "1.20.1",
+    "forge_version": "47.4.10",
+    "server_ip": "shulker.wardenservers.com",
+    "server_port": "27565",
+    "launcher_version": "1.0.0",
+    "mod_version": "1775867246.7436945",
+    "modpack_url": "https://github.com/Whitexxff/server-muni-mods/releases/download/produccion/modpack.zip",
+    "launcher_url": ""
 }
